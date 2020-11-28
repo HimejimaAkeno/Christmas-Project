@@ -1,1 +1,1 @@
-# Christmas Project: Make a toy with Raspberry Pi
+# Christmas Project - Make a toy with Raspberry Pi
