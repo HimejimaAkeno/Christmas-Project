@@ -2,9 +2,10 @@
 ## Material List:
   * ### Female to Male cables
   * ### Male cables
-  * ### A Raspberry Pi Zero
+  * ### Two Raspberry Pi Zero
   * ### A laptop
   * ### 3D printer
-  * ### Breakboard
-  * ### Three multicolor LED
-  * ### Three clicker buttons
+  * ### Solderless Breakboard
+  * ### 3x 470Ω Resistors
+  * ### 3x cathode LED
+  * ### 3x tactile buttons
