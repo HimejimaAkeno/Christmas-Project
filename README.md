@@ -1,4 +1,6 @@
 # Christmas Project:
+## All the steps come from these websites:
+  * ### "Getting start with LEDS" [Link to the website](https://magpi.raspberrypi.org/articles/getting-started-with-electronics-leds-and-switches-using-raspberry-pi)
 ## Material List:
   * ### Female to Male cables
   * ### Male cables
