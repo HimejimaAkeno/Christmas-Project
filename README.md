@@ -1,4 +1,4 @@
-C# Christmas Project:
+# Christmas Project:
 ## Material List:
   * ### Female to Male cables
   * ### Male cables
