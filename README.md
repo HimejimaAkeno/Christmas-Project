@@ -15,5 +15,5 @@
  
  ## Coding Part:
  ### First, type in the following line to download a module called "RPi.GPIO"
- ### Enter the following line and create a python file called "Chris.py"
- ### Type in the following code into "Chris.py"
+ ### Enter the following line and create a python file called "chris.py"
+ ### Type in the following code into "chris.py"
