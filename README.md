@@ -17,3 +17,7 @@
  ### First, type in the following line to download a module called "RPi.GPIO"
  ### Enter the following line and create a python file called "chris.py"
  ### Type in the following code into "chris.py"
+ 
+ ## Building Part:
+ ### Install the first LED and button according to this graph:
+ ![image of LED](https://images.ctfassets.net/tvfg2m04ppj4/2PaOuWywUIcEgRLNHdUJPT/aa91b6fd88a51eabd74e0458a8e672fe/cheerlights_wiring.jpg?w=800)
