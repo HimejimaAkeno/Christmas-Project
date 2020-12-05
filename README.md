@@ -30,5 +30,5 @@
  ![image of IP]()
  ### After that, check your Static IP Address by enter "hostname -I" Make sure to use the last digits
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
- ### Enter "pi@******", "******" is your Static IP Address, then enter the password.
+ ### Enter "pi@xyz", which "xyz" is your Static IP Address, then enter the password.
  ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
