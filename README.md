@@ -2,6 +2,7 @@
 ## All the steps come from these websites:
   * ### "Getting start with LEDs" [Link to the website](https://magpi.raspberrypi.org/articles/getting-started-with-electronics-leds-and-switches-using-raspberry-pi)
   * ### "LEDs with Buttons and GPIO Pins" [Link to the website](https://www.youtube.com/watch?v=9X5z2lxe8Vs)
+  * ### "How to set up static IP address" [link to the website](https://www.raspberrypi.org/documentation/configuration/tcpip/)
 ## Material List:
   * ### Female to Male cables
   * ### Male cables
@@ -21,3 +22,13 @@
  ## Building Part:
  ### Install the first LED and button according to this graph:
  ![image of LED](https://images.ctfassets.net/tvfg2m04ppj4/2PaOuWywUIcEgRLNHdUJPT/aa91b6fd88a51eabd74e0458a8e672fe/cheerlights_wiring.jpg?w=800)
+ 
+ ## Set Up SSH:
+ ### Type in the following line
+ ![image of IP]()
+ ### Then delete all the "#" before those four lines.
+ ![image of IP]()
+ ### After that, check your Static IP Address by enter "hostname -I" Make sure to use the last digits
+ ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
+ ### Enter "pi@******", "******" is your Static IP Address, then enter the password.
+ ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
