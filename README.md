@@ -32,3 +32,10 @@
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
  ### Enter "pi@xyz", which "xyz" is your Static IP Address, then enter the password.
  ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
+
+ ## 3D-Design Part:
+ ### Use a website called "tinkercad to design your box"
+ ![image of box]()
+ ### After you have accomplished all the steps above, assemble your "toy" into the box your just made
+ ### Congratulation! You successfully made a Christamas toy! Have fun!
+ ###
