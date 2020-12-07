@@ -15,12 +15,14 @@
   * ### 2x tactile buttons
  
  ## Coding Part:
+ ### Connect one Raspberrypi Zero into your computer
+ ![image of putty](https://timacw.weebly.com/uploads/1/3/2/1/132123452/raspberrypi05_orig.jpg)
  ### Log into your raspberrypi with your username and password.
- ![image of putty]()
+ ![image of putty](https://timacw.weebly.com/uploads/1/3/2/1/132123452/putty_orig.png)
  ### First, type in the following line to download a module called "RPi.GPIO"
- ![image of downloading]()
+ ![image of downloading](https://timacw.weebly.com/uploads/1/3/2/1/132123452/gpio-module_orig.png)
  ### Enter the following line and create a python file called "chris.py"
- ![image of coding]()
+ ![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/nano-chris2_orig.png)
  ### Type in the following code into "chris.py". Use "Ctrl+O" to save it and "Ctrl+X" to exit it and the coding part is finished!
  ![image of coding]()
  
@@ -30,12 +32,15 @@
  
  ## Set Up SSH:
  ### Type in the following line
- ![image of IP]()
+ ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ip-address-conf_orig.png)
  ### Then delete all the "#" before Line 44-47 and your result should look like this. After that, hit "Ctrl+O" and "Enter" to save it and "Ctrl+x" to exit.
  ![image of IP]()
  ### After that, check your Static IP Address by enter "hostname -I" Make sure to use the last digits
+ ![image of IP]()
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
- ### Enter "pi@xyz", which "xyz" is your Static IP Address, then enter the password.
+ ![image of IP]()
+ ### Enter "ssh pi@xyz", which "xyz" is your Static IP Address, then enter the password.
+ ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ssh_orig.png)
  ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
 
  ## 3D-Design Part:
