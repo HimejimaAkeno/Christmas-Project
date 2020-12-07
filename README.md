@@ -10,17 +10,22 @@
   * ### A laptop
   * ### 3D printer
   * ### Solderless Breakboard
-  * ### 3x 470Ω Resistors
-  * ### 3x cathode LED
-  * ### 3x tactile buttons
+  * ### 2x 470Ω Resistors
+  * ### 1x cathode LED
+  * ### 2x tactile buttons
  
  ## Coding Part:
+ ### Log into your raspberrypi with your username and password.
+ ![image of putty]()
  ### First, type in the following line to download a module called "RPi.GPIO"
+ ![image of downloading]()
  ### Enter the following line and create a python file called "chris.py"
- ### Type in the following code into "chris.py". Use "Ctrl+O" to save it and "Ctrl+X" to exit it
+ ![image of coding]()
+ ### Type in the following code into "chris.py". Use "Ctrl+O" to save it and "Ctrl+X" to exit it and the coding part is finished!
+ ![image of coding]()
  
  ## Building Part:
- ### Install the first LED and button according to this graph:
+ ### Install the Cathode LED and the tactile button according to this graph:
  ![image of LED](https://images.ctfassets.net/tvfg2m04ppj4/2PaOuWywUIcEgRLNHdUJPT/aa91b6fd88a51eabd74e0458a8e672fe/cheerlights_wiring.jpg?w=800)
  
  ## Set Up SSH:
