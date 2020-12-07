@@ -1,7 +1,7 @@
 # Christmas Project:
 ## All the steps come from these websites:
   * ### "Getting start with LEDs" [Link to the website](https://magpi.raspberrypi.org/articles/getting-started-with-electronics-leds-and-switches-using-raspberry-pi)
-  * ### "LEDs with Buttons and GPIO Pins" [Link to the website](https://www.youtube.com/watch?v=9X5z2lxe8Vs)
+  * ### "LEDs with Buttons and GPIO Pins" [Link to the website](https://www.hackster.io/Tisko/rgb-led-a-button-click-away-9886c1)
   * ### "How to set up static IP address" [link to the website](https://www.raspberrypi.org/documentation/configuration/tcpip/)
 ## Material List:
   * ### Female to Male cables
