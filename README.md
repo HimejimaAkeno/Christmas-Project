@@ -41,7 +41,7 @@
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/hostname_orig.png)
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/charger_orig.jpg)
- ### Enter "ssh pi@xyz", which "xyz" is your Static IP Address, then enter the password.
+ ### Enter "ssh pi@xyz", which "xyz" is your Static IP Address, then enter the password. (In my case, I enter shh pi@10.40.11.243)
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ssh_orig.png)
  ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
 
