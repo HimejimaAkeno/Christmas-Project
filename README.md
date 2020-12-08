@@ -38,7 +38,7 @@
  ### Then delete all the "#" before Line 44-47 and your result should look like this. After that, hit "Ctrl+O" and "Enter" to save it and "Ctrl+x" to exit.
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/4lines_orig.png)
  ### After that, check your Static IP Address by enter "hostname -I" Make sure to use the last digits
- ![image of IP]()
+ ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/hostname_orig.png)
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/charger_orig.jpg)
  ### Enter "ssh pi@xyz", which "xyz" is your Static IP Address, then enter the password.
