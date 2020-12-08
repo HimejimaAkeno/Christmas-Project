@@ -1,6 +1,5 @@
 # Christmas Project:
 ## All the steps come from these websites:
-  * ### "Getting start with LEDs" [Link to the website](https://magpi.raspberrypi.org/articles/getting-started-with-electronics-leds-and-switches-using-raspberry-pi)
   * ### "LEDs with Buttons and GPIO Pins" [Link to the website](https://www.hackster.io/Tisko/rgb-led-a-button-click-away-9886c1)
   * ### "How to set up static IP address" [link to the website](https://www.raspberrypi.org/documentation/configuration/tcpip/)
 ## Material List:
@@ -13,6 +12,7 @@
   * ### 2x 470Ω Resistors
   * ### 1x cathode LED
   * ### 2x tactile buttons
+  * ### 1x portable charger/battery pack
  
  ## Coding Part:
  ### Connect one Raspberrypi Zero into your computer
@@ -25,20 +25,22 @@
  ![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/nano-chris2_orig.png)
  ### Type in the following code into "chris.py". Use "Ctrl+O" to save it and "Ctrl+X" to exit it and the coding part is finished!
  ![image of coding]()
+  ### Congratulation! You successfully finish the coding part. 
  
  ## Building Part:
  ### Install the Cathode LED and the tactile button according to this graph:
- ![image of LED](https://images.ctfassets.net/tvfg2m04ppj4/2PaOuWywUIcEgRLNHdUJPT/aa91b6fd88a51eabd74e0458a8e672fe/cheerlights_wiring.jpg?w=800)
- 
+ ![image of LED](https://timacw.weebly.com/uploads/1/3/2/1/132123452/rgb-button_orig.jpg)
+ ### Congratulation! You successfully finish the building part. 
+
  ## Set Up SSH:
  ### Type in the following line
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ip-address-conf_orig.png)
  ### Then delete all the "#" before Line 44-47 and your result should look like this. After that, hit "Ctrl+O" and "Enter" to save it and "Ctrl+x" to exit.
- ![image of IP]()
+ ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/4lines_orig.png)
  ### After that, check your Static IP Address by enter "hostname -I" Make sure to use the last digits
  ![image of IP]()
  ### Then, plug this Raspberrypi Zero into a portable charger and then set it aside. Grab a new Raspberrypi Zero and log in with Putty as usual.
- ![image of IP]()
+ ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/charger_orig.jpg)
  ### Enter "ssh pi@xyz", which "xyz" is your Static IP Address, then enter the password.
  ![image of IP](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ssh_orig.png)
  ### Congratulation! You successfully log in to the Raspberrypi Zero with the code on it!
