@@ -24,7 +24,7 @@
  ### Enter the following line and create a python file called "chris.py"
  ![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/nano-chris2_orig.png)
  ### Type in the following code into "chris.py". Use "Ctrl+O" to save it and "Ctrl+X" to exit it and the coding part is finished!
- ![image of coding]()
+ ![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/coding-part_orig.png)
   ### Congratulation! You successfully finish the coding part. 
  
  ## Building Part:
