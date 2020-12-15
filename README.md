@@ -47,7 +47,7 @@
 
  ## 3D-Design Part:
  ### Use a website called "tinkercad to design your box"
- ![image of box]()
+ ![image of box](https://timacw.weebly.com/uploads/1/3/2/1/132123452/buildingpart_orig.png)
  ### After you have accomplished all the steps above, assemble your "toy" into the box your just made
  ### Congratulation! You successfully made a Christamas toy! Have fun!
  ###
